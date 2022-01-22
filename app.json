@@ -1,6 +1,6 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "kgrtrdere",
+  "description": "kgrtrdere",
   "keywords": [
     "vmess or vles"
   ],
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/vcsddeexdwa/kgrtrdere",
+  "repository": "https://github.com/vcsddeexdwa/kgrtrdere",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
